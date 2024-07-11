@@ -1,22 +1,23 @@
 
 import React from 'react';
-import './App.css'; 
+import './App.css'; // Import your CSS for App styling
+import FancyText from './FancyText'; // Import FancyText component
 import TaskGenerator from './TaskGenerator'; // Import TaskGenerator component
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="App-title">Task Management and Motivation App</h1>
+        <FancyText title={true} text="Task Management and Motivation App" />
       </header>
-      <main className="App-main">
+      <main>
         <TaskGenerator />
       </main>
-      <footer className="App-footer">
-        <p>&copy; {new Date().getFullYear()} Your Name</p>
+      <footer>
+        <p>&copy; 2024 Your Name</p>
       </footer>
     </div>
   );
-}
+};
 
 export default App;
