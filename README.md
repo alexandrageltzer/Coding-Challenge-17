@@ -20,3 +20,5 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/alexandrageltzer/Coding-Challenge-17.git
    cd Coding-Challenge-17/motivation-app
+2. npm install
+3. npm start
