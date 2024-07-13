@@ -1,7 +1,9 @@
 # My App
 U2863-9518
+
 My Task Motivation App allows me to scroll through different tasks and see whether or not they are complete. A motivation message is displayed below. 
 
+HOW TO ACCESS:
 1. Clone the repository
    
 git clone https://github.com/alexandrageltzer/Coding-Challenge-17.git
