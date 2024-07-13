@@ -1,14 +1,14 @@
 # How to Access My App
 
 
-# Clone the repository
+1. Clone the repository
 git clone https://github.com/alexandrageltzer/Coding-Challenge-17.git
 
-# Navigate into the project directory
+2.  Navigate into the project directory
 cd Coding-Challenge-17
 
-# Install dependencies
+3.  Install dependencies
 npm install
 
-# Start the development server
+4. start the development server
 npm start
