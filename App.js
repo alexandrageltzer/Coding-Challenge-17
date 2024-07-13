@@ -14,7 +14,7 @@ const App = () => {
         <TaskGenerator />
       </main>
       <footer>
-        <p>&copy; 2024 Your Name</p>
+        <p>2024 Alexandra Geltzer</p>
       </footer>
     </div>
   );
