@@ -1,6 +1,6 @@
-# How to Access My App
+# My App
 U2863-9518
-
+My Task Motivation App allows me to scroll through different tasks and see whether or not they are complete. A motivation message is displayed below. 
 
 1. Clone the repository
    
